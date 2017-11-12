@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.Net.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard1.5</TargetFramework>
+    <ProjectGuid>{65a63df0-edcc-42f7-96c6-5b5a50986226}</ProjectGuid>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="_4X_OSBoot.Cosmos" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <PackageReference Include="Cosmos.Debug.Kernel" Version="1.0.*" />
+    <PackageReference Include="Cosmos.System" Version="1.0.*" />
+  </ItemGroup>
+  
+  <ItemGroup>
+    <Reference Include="OSLibrary">
+      <HintPath>..\OSLibrary\bin\Debug\OSLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

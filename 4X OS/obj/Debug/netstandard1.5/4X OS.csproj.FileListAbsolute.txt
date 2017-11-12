@@ -1,0 +1,11 @@
+c:\users\roman\source\repos\4X OS\4X OS\bin\Debug\netstandard1.5\4X OS.deps.json
+c:\users\roman\source\repos\4X OS\4X OS\bin\Debug\netstandard1.5\4X OS.dll
+c:\users\roman\source\repos\4X OS\4X OS\bin\Debug\netstandard1.5\4X OS.pdb
+c:\users\roman\source\repos\4X OS\4X OS\obj\Debug\netstandard1.5\4X OS.csprojResolveAssemblyReference.cache
+c:\users\roman\source\repos\4X OS\4X OS\obj\Debug\netstandard1.5\4X OS.csproj.CoreCompileInputs.cache
+c:\users\roman\source\repos\4X OS\4X OS\obj\Debug\netstandard1.5\4X OS.AssemblyInfoInputs.cache
+c:\users\roman\source\repos\4X OS\4X OS\obj\Debug\netstandard1.5\4X OS.AssemblyInfo.cs
+c:\users\roman\source\repos\4X OS\4X OS\obj\Debug\netstandard1.5\4X OS.dll
+c:\users\roman\source\repos\4X OS\4X OS\obj\Debug\netstandard1.5\4X OS.pdb
+c:\users\roman\source\repos\4X OS\4X OS\bin\Debug\netstandard1.5\OSLibrary.dll
+c:\users\roman\source\repos\4X OS\4X OS\bin\Debug\netstandard1.5\OSLibrary.pdb

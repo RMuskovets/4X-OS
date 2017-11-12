@@ -1,0 +1,26 @@
+c:\users\roman\source\repos\4X OS\4X OS\bin\Debug\net462\4X OS.dll
+c:\users\roman\source\repos\4X OS\4X OS\bin\Debug\net462\Cosmos.Core.Plugs.Asm.dll
+c:\users\roman\source\repos\4X OS\4X OS\bin\Debug\net462\Cosmos.Core.Plugs.dll
+c:\users\roman\source\repos\4X OS\4X OS\bin\Debug\net462\Cosmos.Debug.Kernel.Plugs.Asm.dll
+c:\users\roman\source\repos\4X OS\4X OS\bin\Debug\net462\Cosmos.System.Plugs.dll
+c:\users\roman\source\repos\4X OS\4X OS\bin\Debug\net462\Cosmos.System.dll
+c:\users\roman\source\repos\4X OS\4X OS\bin\Debug\net462\Cosmos.Common.dll
+c:\users\roman\source\repos\4X OS\4X OS\bin\Debug\net462\Cosmos.Core.Common.dll
+c:\users\roman\source\repos\4X OS\4X OS\bin\Debug\net462\Cosmos.Debug.Kernel.dll
+c:\users\roman\source\repos\4X OS\4X OS\bin\Debug\net462\Cosmos.Core.dll
+c:\users\roman\source\repos\4X OS\4X OS\bin\Debug\net462\Cosmos.Core.Memory.dll
+c:\users\roman\source\repos\4X OS\4X OS\bin\Debug\net462\Cosmos.HAL.dll
+c:\users\roman\source\repos\4X OS\4X OS\bin\Debug\net462\4X OS.pdb
+c:\users\roman\source\repos\4X OS\4X OS\bin\Debug\net462\Cosmos.Core.Plugs.pdb
+c:\users\roman\source\repos\4X OS\4X OS\bin\Debug\net462\Cosmos.Core.Plugs.Asm.pdb
+c:\users\roman\source\repos\4X OS\4X OS\bin\Debug\net462\Cosmos.Debug.Kernel.Plugs.Asm.pdb
+c:\users\roman\source\repos\4X OS\4X OS\bin\Debug\net462\Cosmos.System.Plugs.pdb
+c:\users\roman\source\repos\4X OS\4X OS\bin\Debug\net462\Cosmos.System.pdb
+c:\users\roman\source\repos\4X OS\4X OS\bin\Debug\net462\Cosmos.Common.pdb
+c:\users\roman\source\repos\4X OS\4X OS\bin\Debug\net462\Cosmos.Core.Common.pdb
+c:\users\roman\source\repos\4X OS\4X OS\bin\Debug\net462\Cosmos.Debug.Kernel.pdb
+c:\users\roman\source\repos\4X OS\4X OS\bin\Debug\net462\Cosmos.Core.pdb
+c:\users\roman\source\repos\4X OS\4X OS\bin\Debug\net462\Cosmos.Core.Memory.pdb
+c:\users\roman\source\repos\4X OS\4X OS\bin\Debug\net462\Cosmos.HAL.pdb
+c:\users\roman\source\repos\4X OS\4X OS\obj\Debug\net462\4X OSBoot.CosmosResolveAssemblyReference.cache
+c:\users\roman\source\repos\4X OS\4X OS\obj\Debug\net462\4X OSBoot.Cosmos.CoreCompileInputs.cache
